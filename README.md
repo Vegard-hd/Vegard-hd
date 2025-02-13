@@ -1,25 +1,33 @@
-# Hi there, I'm Vegard! 👋
+# Welcome to My GitHub Profile
+
+Hi there! I'm Vegard, a passionate developer who loves to explore new technologies and build cool projects. 
 
 ## About Me
-I am a passionate developer with interests in [cycling]. 
+
+- **Location:** Oslo, Norway
+- **Interests:** Coding, Open Source, Learning new skills, cycling and gaming
+- **Contact:** vegardhaglunddahl@gmail.com
 
 ## Skills
-- **Languages**: [SQL, javascript, CSS]
-- **Frameworks and Libraries**: [Node.js, Express, MySql, sequelize]
 
+- **Languages:** Javascript, SQL, html and CSS. 
+- **Tools:** MySQL, MongoDB, NodeJS, Bun, Express, Bootstrap, Docker, VScode
 
 
 ## Projects
+
 Here are some of the projects I've worked on:
 
+1. **[Project Name](link-to-project)** - Brief description of the project.
+2. **[Project Name](link-to-project)** - Brief description of the project.
+3. **[Project Name](link-to-project)** - Brief description of the project.
 
 ## GitHub Stats
-![Vegard's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vegard-hd&show_icons=true&theme=radical)
 
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vegard-hd&layout=compact&theme=radical)
+![Vegard's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vegard-hd&show_icons=true&theme=default)
 
-<!---
-Vegard-hd/Vegard-hd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Get in Touch
+
+Feel free to reach out to me via vegardhaglunddahl@gmail.com.
+
+Thanks for visiting my profile!
