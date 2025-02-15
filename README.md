@@ -18,7 +18,7 @@ Hi there! I'm Vegard, a passionate developer who loves to explore new technologi
 
 Here are some of the projects I've worked on:
 
-1. **[Fruit-connect]([link-to-project](https://github.com/Vegard-hd/Fruit-connect))** - Browser game; click connected fruits to get score: [link to VPS running the game](https://vps-e5e3ac41.vps.ovh.net/)
+1. **[Fruit-connect](https://github.com/Vegard-hd/Fruit-connect)** - Browser game; click connected fruits to get score: [link to VPS running the game](https://vps-e5e3ac41.vps.ovh.net/)
 
 
 ## GitHub Stats
