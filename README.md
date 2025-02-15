@@ -11,16 +11,15 @@ Hi there! I'm Vegard, a passionate developer who loves to explore new technologi
 ## Skills
 
 - **Languages:** Javascript, SQL, html and CSS. 
-- **Tools:** MySQL, MongoDB, NodeJS, Bun, Express, Bootstrap, Docker, VScode
+- **Tools:** MySQL, MongoDB, NodeJS, Bun, Express, Bootstrap, Docker, VScode, Redis, Supabase
 
 
 ## Projects
 
 Here are some of the projects I've worked on:
 
-1. **[Project Name](link-to-project)** - Brief description of the project.
-2. **[Project Name](link-to-project)** - Brief description of the project.
-3. **[Project Name](link-to-project)** - Brief description of the project.
+1. **[Fruit-connect]([link-to-project](https://github.com/Vegard-hd/Fruit-connect))** - Browser game; click connected fruits to get score: [link to VPS running the game](https://vps-e5e3ac41.vps.ovh.net/)
+
 
 ## GitHub Stats
 
