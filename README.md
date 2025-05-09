@@ -2,6 +2,9 @@
 
 Hi there! I'm Vegard, a passionate developer who loves to explore new technologies and build cool projects. 
 
+# Check out https://vegardhaglund.dev/ for information about my projects.
+
+
 ## About Me
 
 - **Location:** Oslo, Norway
@@ -14,11 +17,6 @@ Hi there! I'm Vegard, a passionate developer who loves to explore new technologi
 - **Tools:** MySQL, MongoDB, NodeJS, Bun, Express, Bootstrap, Docker, VScode, Redis, Supabase
 
 
-## Projects
-
-Here are some of the projects I've worked on:
-
-1. **[Fruit-connect](https://github.com/Vegard-hd/Fruit-connect)** - Browser game; click connected fruits to get score: [link to VPS running the game](https://vps-e5e3ac41.vps.ovh.net/)
 
 
 ## GitHub Stats
