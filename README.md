@@ -2,7 +2,7 @@
 
 Hi there! I'm Vegard, a passionate developer who loves to explore new technologies and build cool projects. 
 
-# Check out https://vegardhaglund.dev/ for information about my projects.
+## Check out https://vegardhaglund.dev/ for information about my projects.
 
 
 ## About Me
